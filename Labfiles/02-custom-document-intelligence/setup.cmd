@@ -2,9 +2,9 @@
 SETLOCAL ENABLEDELAYEDEXPANSION
 
 rem Set variable values 
-set subscription_id=YOUR_SUBSCRIPTION_ID
-set resource_group=YOUR_RESOURCE_GROUP
-set location=YOUR_LOCATION_NAME
+set subscription_id=e8fb0c0c-cf02-4434-8f23-7250565b3ee3
+set resource_group=msbuildchallenge
+set location=eastus
 set expiry_date=2026-01-01T00:00:00Z
 
 rem Get random numbers to create unique resource names

@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Set variable values
-subscription_id="YOUR_SUBSCRIPTION_ID"
-resource_group="YOUR_RESOURCE_GROUP"
-location="YOUR_LOCATION_NAME"
+subscription_id="e8fb0c0c-cf02-4434-8f23-7250565b3ee3"
+resource_group="msbuildchallenge"
+location="eastus"
 expiry_date="2024-01-01T00:00:00Z"
 
 # Get random numbers to create unique resource names
